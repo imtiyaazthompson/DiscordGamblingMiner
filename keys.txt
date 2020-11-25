@@ -1,0 +1,5 @@
+PUBLIC_KEY = "92dfd53896fb13c1d065e57a67e92ce9de12a5d21abcf8e478e96e5ee015703b"
+CLIENT_ID = "781146444723388436"
+SECRET = "PU-LIiyIw1TbceePnO-hG8JP54kpq5_c"
+BOT_SECRET = "NzgxMTQ2NDQ0NzIzMzg4NDM2.X75ZUQ.E-93f_TzgdxWr5WscDvN_-YuxUQ"
+OAUTH2 = "https://discord.com/api/oauth2/authorize?client_id=781146444723388436&permissions=8&scope=bot"
